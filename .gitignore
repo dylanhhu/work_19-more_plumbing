@@ -1,3 +1,9 @@
+# Project specific files
+uno
+dos
+ui
+worker
+
 # Prerequisites
 *.d
 
